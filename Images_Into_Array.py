@@ -33,11 +33,10 @@ def images(images_path, image_size):
 
    #Convert List Into Array
     array_image = np.array(imges_list)
-    print('Array Shape : ', array_image.shape)
-
+ 
     #Removed Dimention 
     images = array_image[:,0,:,:]
-    print('Image Shape : ', images.shape)
+
     return(images)
 
 if __name__ == "__main__":
