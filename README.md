@@ -1,7 +1,7 @@
 # Convert-Images-Into-Array:
 ---------------------------
-convert multiple images into array :
-------------------------------------
+Convert Multiple images into a array and saved it into .npy file and letter user it for various task :
+-----------------------------------------------------------------------------------------------------
 
 
  Requirement’s:
