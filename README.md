@@ -2,6 +2,10 @@
 ---------------------------
 Convert Multiple images into a array and saved it into .npy file and letter user it for various task :
 -----------------------------------------------------------------------------------------------------
+PyPI package : 
+--------------
+
+https://pypi.org/project/images-into-array/
 
 
  Requirement’s:
