@@ -18,29 +18,30 @@ images_path = input('Enter Image Folder Path : ') #Path of the images folder
 image_size = int(input('Enter The Image Size [32, 64, 128] : '))
 
 def images(images_path, image_size):
-    empty_list = []
+    imges_list = []
 
     for image in tqdm(os.listdir(images_path)):
         path = os.path.join(images_path, image)
 
         image = cv2.imread(path)
         image = cv2.resize(image , (image_size, image_size))
-        empty_list.append([np.array(image)])
-    shuffle(empty_list)
+        imges_list.append([np.array(image)])
+    shuffle(imges_list)
 
-    return(empty_list)
+   #Convert List Into Array
+    array_image = np.array(imges_list)
+    print('Array Shape : ', array_image.shape)
 
-#All the images Stored Into a List
-list_images = images(images_path, image_size)
+    #Removed Dimention 
+    images = array_image[:,0,:,:]
+    print('Image Shape : ', images.shape)
 
-#Convert List Into Array
-array_image = np.array(list_images)
-print('Array Shape : ', array_image.shape)
+    return()
 
-#Removed Dimention 
-images = array_image[:,0,:,:]
-print('Image Shape : ',images.shape)
+if __name__ == "__main__":
+    images(images_path, image_size)
 
+    
 #OUTPUT :
 '''
 Enter Image Folder Path : /media/sujit/92EC423BEC4219BD/GitHub Preoject/ALL ML PROJECT/Face Mask Detection/face mask detection  dataset/test/without mask
