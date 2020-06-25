@@ -2,7 +2,7 @@
 ---------------------------
 Convert Multiple images into a array and saved it into .npy file and letter user it for various task :
 -----------------------------------------------------------------------------------------------------
-![](https://github.com/sujitmandal/images-into-array/releases)
+![1.0.7](https://pypi.org/project/images-into-array/1.0.7/)
 
 PyPI package : 
 --------------
