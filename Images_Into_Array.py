@@ -17,7 +17,7 @@ Twitter : https://twitter.com/mandalsujit37
 #images_path = input('Enter Image Folder Path : ') #Path of the images folder
 #image_size = int(input('Enter The Image Size [32, 64, 128] : '))
 
-images_path = ('/media/sujit/92EC423BEC4219BD/GitHub Preoject/ALL ML PROJECT/Face Mask Detection/face mask detection  dataset/test/without mask') #Path of the images folder
+images_path = ('') #Path of the images folder
 image_size = 32
 
 def images(images_path, image_size):
