@@ -15,9 +15,13 @@ Twitter : https://twitter.com/mandalsujit37
 """
 #Document : https://docs.opencv.org/3.4/de/d25/imgproc_color_conversions.html
 
-images_path = input('Enter Image Folder Path : ') #Path of the images folder
-image_height = int(input('Enter The Image Size [32, 64, 128] : ')) 
-image_width = int(input('Enter The Image Size [32, 64, 128] : '))
+#images_path = input('Enter Image Folder Path : ') #Path of the images folder
+#image_height = int(input('Enter The Image Size [32, 64, 128] : ')) 
+#image_width = int(input('Enter The Image Size [32, 64, 128] : '))
+
+images_path = ('') #Path of the images folder
+image_height = 32 #[32, 64, 128]
+image_width = 32 #[32, 64, 128]
 
 #NORNAL
 def images(images_path, image_height, image_width):
