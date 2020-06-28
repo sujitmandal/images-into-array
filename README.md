@@ -1,12 +1,15 @@
 # Convert-Images-Into-Array:
 ---------------------------
-Convert Multiple images into a array and saved it into .npy file and letter user it for various task :
------------------------------------------------------------------------------------------------------
+Convert Multiple Images into a Array and Different Color Spaces into a Array :
+------------------------------------------------------------------------------
 
 PyPI package : 
 --------------
-
 https://pypi.org/project/images-into-array/
+
+OpenCV Document :
+-----------------
+https://docs.opencv.org/3.4/de/d25/imgproc_color_conversions.html
 
 
  Requirement’s:
