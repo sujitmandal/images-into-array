@@ -8,10 +8,6 @@ PyPI package :
 --------------
 https://pypi.org/project/images-into-array/
 
-OpenCV Document :
------------------
-https://docs.opencv.org/3.4/de/d25/imgproc_color_conversions.html
-
 # Convert-Images-Into-Array:
 ---------------------------
 Convert Multiple Images into a Array and Different Color Spaces into a Array :
