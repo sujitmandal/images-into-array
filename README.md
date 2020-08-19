@@ -118,10 +118,9 @@ How to install | Python | | Anaconda | | Opencv library |
 MIT Licensed
 
 ## Author:
-@Sujit Mandal
+Sujit Mandal
 
+[GitHub](https://github.com/sujitmandal)
 [LinkedIn](https://www.linkedin.com/in/sujit-mandal-91215013a/)
-
 [Facebook](https://www.facebook.com/sujit.mandal.33671748)
-
 [Twitter](https://twitter.com/mandalsujit37)
