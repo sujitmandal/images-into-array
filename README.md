@@ -6,9 +6,9 @@ Convert Multiple Images into a Array and Different Color Spaces into a Array :
 
 PyPI package : 
 --------------
-'''
+```
 pip install images-into-array
-'''
+```
 
 [Package LInk](https://pypi.org/project/images-into-array/)
 
@@ -20,7 +20,7 @@ This package fuction requres three argument one is path of the images folder and
 
 OpenCV Document :
 -----------------
-https://docs.opencv.org/3.4/de/d25/imgproc_color_conversions.html
+[OpenCV Document] (https://docs.opencv.org/3.4/de/d25/imgproc_color_conversions.html)
 
 
 # How to import the module:
@@ -128,7 +128,7 @@ How to install Anaconda In Linux | Create Environment | Install TensorFlow | Ope
 
  Installing the required package’s:
 -------------------------------------
-
+```
 • conda install -c conda-forge opencv=4.2.0
 
 • pip install shuffle
@@ -136,7 +136,7 @@ How to install Anaconda In Linux | Create Environment | Install TensorFlow | Ope
 • pip install numpy
 
 • pip install tqdm
-
+```
 License:
 --------
 MIT Licensed
