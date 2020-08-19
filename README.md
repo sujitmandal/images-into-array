@@ -1,7 +1,8 @@
 ## Convert-Images-Into-Array:
 
 ## Convert Multiple Images into a Array and Different Color Spaces into a Array :
-[![Downloads](https://pepy.tech/badge/images-into-array)](https://pepy.tech/project/images-into-array) [![Downloads](https://pepy.tech/badge/images-into-array/month)](https://pepy.tech/project/images-into-array/month) [![Downloads](https://pepy.tech/badge/images-into-array/week)](https://pepy.tech/project/images-into-array/week)
+[![Downloads](https://pepy.tech/badge/images-into-array)](https://pepy.tech/project/images-into-array) 
+
 ## PyPI package : 
 ```
 pip install images-into-array
