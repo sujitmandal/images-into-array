@@ -6,10 +6,11 @@ Convert Multiple Images into a Array and Different Color Spaces into a Array :
 
 PyPI package : 
 --------------
-
+'''
 pip install images-into-array
+'''
 
-https://pypi.org/project/images-into-array/
+[Package LInk](https://pypi.org/project/images-into-array/)
 
 # Convert-Images-Into-Array:
 ---------------------------
