@@ -114,13 +114,11 @@ How to install | Python | | Anaconda | | Opencv library |
 
 • pip install tqdm
 ```
-License:
---------
+## License:
 MIT Licensed
 
-Author:
--------
-Sujit Mandal
+## Author:
+@Sujit Mandal
 
 [LinkedIn](https://www.linkedin.com/in/sujit-mandal-91215013a/)
 
