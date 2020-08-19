@@ -20,33 +20,34 @@ This package fuction requres three argument one is path of the images folder and
 
 OpenCV Document :
 -----------------
-[OpenCV Document] (https://docs.opencv.org/3.4/de/d25/imgproc_color_conversions.html)
+[OpenCV Document](https://docs.opencv.org/3.4/de/d25/imgproc_color_conversions.html)
 
 
 # How to import the module:
 ---------------------------
+```
 images_path = ('')
 
 image_height = Enter The Image Size [32, 64, 128]
 
 image_width = Enter The Image Size [32, 64, 128]
-
-#NORMAL :
----------
+```
+##NORMAL :
+```
 from images_into_array.images_into_array import images
 
 array = images(images_path, image_height, image_width)
 
 print(array.shape)
-
-#RGB ↔ GRAY :
--------------
+```
+##RGB ↔ GRAY :
+```
 from images_into_array.images_into_array import rgb_gray
 
 gray = rgb_gray(images_path, image_height, image_width)
 
 print(array.shape)
-
+```
 #RGB ↔ CIE L*a*b* :
 -------------------
 from images_into_array.images_into_array import rgb_lab
