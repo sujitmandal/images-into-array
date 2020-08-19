@@ -1,9 +1,7 @@
 ## Convert-Images-Into-Array:
 
 ## Convert Multiple Images into a Array and Different Color Spaces into a Array :
-``
 [![Downloads](https://pepy.tech/badge/images-into-array)](https://pepy.tech/project/images-into-array) [![Downloads](https://pepy.tech/badge/images-into-array/month)](https://pepy.tech/project/images-into-array/month) [![Downloads](https://pepy.tech/badge/images-into-array/week)](https://pepy.tech/project/images-into-array/week)
-``
 ## PyPI package : 
 ```
 pip install images-into-array
@@ -12,16 +10,15 @@ pip install images-into-array
 [Package LInk](https://pypi.org/project/images-into-array/)
 
 ## Convert-Images-Into-Array:
+'''
 Convert Multiple Images into a Array and Different Color Spaces into a Array :
--------------------------------------------------------------------------------
 This package fuction requres three argument one is path of the images folder and other is image_height and image_width.
-
+'''
 OpenCV Document :
 -----------------
 [OpenCV Document](https://docs.opencv.org/3.4/de/d25/imgproc_color_conversions.html)
 
 ## How to import the module:
-
 ```
 images_path = ('')
 
@@ -29,7 +26,7 @@ image_height = Enter The Image Size [32, 64, 128]
 
 image_width = Enter The Image Size [32, 64, 128]
 ```
-##NORMAL :
+## NORMAL :
 ```
 from images_into_array.images_into_array import images
 
@@ -102,13 +99,11 @@ print(array.shape)
 • [Visual Studio Download](https://code.visualstudio.com/Download)
 
 ## Linux:
-
-## How to install Anaconda In Linux | Create Environment | Install TensorFlow | Opencv library |
+ How to install Anaconda In Linux | Create Environment | Install TensorFlow | Opencv library |
  [![How to install | Python | | Anaconda | | Opencv library |](https://yt-embed.herokuapp.com/embed?v=Mfbrxy8gK6A)](https://www.youtube.com/watch?v=Mfbrxy8gK6A "How to install Anaconda In Linux | Create Environment | Install TensorFlow | Opencv library |")
 
 ##  Windows:
-
-## How to install | Python | | Anaconda | | Opencv library |
+How to install | Python | | Anaconda | | Opencv library |
  [![How to install | Python | | Anaconda | | Opencv library |](https://yt-embed.herokuapp.com/embed?v=eVV3byQlYvA)](https://www.youtube.com/watch?v=eVV3byQlYvA "How to install | Python | | Anaconda | | Opencv library |")
 
 ## Installing the required package’s:
