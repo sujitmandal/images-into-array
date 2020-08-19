@@ -100,7 +100,7 @@ print(array.shape)
 
 ## Linux:
  How to install Anaconda In Linux | Create Environment | Install TensorFlow | Opencv library |
- ![[How to install | Python | | Anaconda | | Opencv library |](https://yt-embed.herokuapp.com/embed?v=Mfbrxy8gK6A)](https://www.youtube.com/watch?v=Mfbrxy8gK6A "How to install Anaconda In Linux | Create Environment | Install TensorFlow | Opencv library |")
+ [![How to install | Python | | Anaconda | | Opencv library |](https://yt-embed.herokuapp.com/embed?v=Mfbrxy8gK6A)](https://www.youtube.com/watch?v=Mfbrxy8gK6A "How to install Anaconda In Linux | Create Environment | Install TensorFlow | Opencv library |")
 
 ##  Windows:
 How to install | Python | | Anaconda | | Opencv library |
