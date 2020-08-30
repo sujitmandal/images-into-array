@@ -8,7 +8,7 @@ Convert Multiple Images into a Array and Different Color Spaces into a Array.
 pip install images-into-array
 ```
 
-[Package LInk](https://pypi.org/project/images-into-array/)
+[Package Link](https://pypi.org/project/images-into-array/)
 
 ## Convert-Images-Into-Array:
 Convert Multiple Images into a Array and Different Color Spaces into a Array.This package fuction requres three argument one is path of the images folder and other is image_height and image_width.
@@ -125,6 +125,3 @@ Sujit Mandal
 
 [LinkedIn](https://www.linkedin.com/in/sujit-mandal-91215013a/)
 
-[Facebook](https://www.facebook.com/sujit.mandal.33671748)
-
-[Twitter](https://twitter.com/mandalsujit37)
