@@ -1,7 +1,9 @@
 ## Convert-Images-Into-Array:
-Convert Multiple Images into a Array and Different Color Spaces into a Array.
+[![Build Status](https://travis-ci.org/sujitmandal/images-into-array.svg?branch=master)](https://travis-ci.org/sujitmandal/images-into-array) [![GitHub license](https://img.shields.io/github/license/sujitmandal/images-into-array)](https://github.com/sujitmandal/images-into-array/blob/master/LICENSE) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/images-into-array) ![PyPI - Wheel](https://img.shields.io/pypi/wheel/images-into-array) ![PyPI](https://img.shields.io/pypi/v/images-into-array)
 
 [![Downloads](https://pepy.tech/badge/images-into-array)](https://pepy.tech/project/images-into-array) 
+
+Convert Multiple Images into a Array and Different Color Spaces into a Array.
 
 ## Package Installation  : 
 ```
