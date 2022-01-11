@@ -8,7 +8,7 @@ def readme():
 
 setup(
     name = 'images-into-array',
-    version = '2.0.2',
+    version = '2.0.6',
     description = 'Convert Multiple Images into a Array and Different Color Spaces into a Array',
     long_description = readme(),
     long_description_content_type = 'text/markdown',
@@ -24,6 +24,8 @@ setup(
         'Programming Language :: Python :: 3.6',
         'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: 3.8',
+        'Programming Language :: Python :: 3.9',
+        'Programming Language :: Python :: 3.10',
     ],
 
     packages = ['images_into_array'],
