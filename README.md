@@ -41,7 +41,7 @@ from images_into_array.images_into_array import rgb_gray
 
 gray = rgb_gray(images_path, image_height, image_width)
 
-print(array.shape)
+print(gray.shape)
 ```
 ## RGB ↔ CIE L*a*b* :
 ```python
@@ -49,7 +49,7 @@ from images_into_array.images_into_array import rgb_lab
 
 lav = rgb_lab(images_path, image_height, image_width)
 
-print(array.shape)
+print(lav.shape)
 ```
 ## RGB ↔ HLS :
 ```python
@@ -57,7 +57,7 @@ from images_into_array.images_into_array import rgb_hls
 
 hls = rgb_hls(images_path, image_height, image_width)
 
-print(array.shape)
+print(hls.shape)
 ```
 ## RGB ↔ CIE L*u*v* :
 ```python
@@ -65,7 +65,7 @@ from images_into_array.images_into_array import rgb_luv
 
 luv = rgb_luv(images_path, image_height, image_width)
 
-print(array.shape)
+print(luv.shape)
 ```
 ## RGB ↔ HSV :
 ```python
@@ -73,7 +73,7 @@ from images_into_array.images_into_array import rgb_hsv
 
 hsv = rgb_hsv(images_path, image_height, image_width)
 
-print(array.shape)
+print(hsv.shape)
 ```
 ## RGB ↔ YCrCb JPEG (or YCC) :
 ```python
@@ -81,7 +81,7 @@ from images_into_array.images_into_array import rgb_ycrcb
 
 ycrcb = rgb_ycrcb(images_path, image_height, image_width)
 
-print(array.shape)
+print(ycrcb.shape)
 ```
 
 ## Required package’s:

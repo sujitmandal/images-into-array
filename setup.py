@@ -8,7 +8,7 @@ def readme():
 
 setup(
     name = 'images-into-array',
-    version = '2.0.6',
+    version = '2.0.7',
     description = 'Convert Multiple Images into a Array and Different Color Spaces into a Array',
     long_description = readme(),
     long_description_content_type = 'text/markdown',
