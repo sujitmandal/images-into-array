@@ -23,9 +23,9 @@ OpenCV Document :
 ```python
 images_path = ('')
 
-image_height = Enter The Image Size [32, 64, 128]
+image_height = 'Enter The Image Size [32, 64, 128]'
 
-image_width = Enter The Image Size [32, 64, 128]
+image_width = 'Enter The Image Size [32, 64, 128]'
 ```
 ## NORMAL :
 ```python
@@ -94,7 +94,6 @@ print(array.shape)
 
 • pip install tqdm
 ```
-
 ## License:
 MIT Licensed
 
