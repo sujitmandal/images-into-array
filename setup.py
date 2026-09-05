@@ -8,7 +8,7 @@ def readme():
 
 setup(
     name="images-into-array",
-    version="3.0.0",
+    version="3.0.1",
     description="Convert multiple images into NumPy arrays and different color spaces",
     long_description=readme(),
     long_description_content_type="text/markdown",
@@ -16,7 +16,6 @@ setup(
     author="Sujit Mandal",
     author_email="mandals974@gmail.com",
     license="MIT",
-    packages=find_packages(),
     python_requires=">=3.8",
     install_requires=[
         "numpy",
@@ -37,5 +36,6 @@ setup(
         "Programming Language :: Python :: 3.12",
         "Programming Language :: Python :: 3.13",
     ],
+    packages=["images_into_array"],
     include_package_data=True,
 )
